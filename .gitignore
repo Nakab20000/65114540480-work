@@ -1,0 +1,6 @@
+# ไฟล์และโฟลเดอร์ที่ควร ignore ในโปรเจกต์ Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+*.egg-info/
